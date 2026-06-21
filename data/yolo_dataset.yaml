@@ -1,0 +1,10 @@
+names:
+- COVID
+- Lung_Opacity
+- Normal
+- Viral Pneumonia
+nc: 4
+path: C:\Users\jayas\OneDrive\Desktop\AI Based Medical Image Triage System\data\yolo_dataset
+test: images/test
+train: images/train
+val: images/val
